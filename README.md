@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandipNarbat
-- 👀 I’m interested in full stack developing
-- 🌱 I’m currently learning html,css,Javascript
+- 👀 I’m interested in full stack developing, android developer
+- 🌱 I’m currently learning html,css,Javascript & Android devlopement 
 - 📫 How to reach me Email: sandipnarbat111@gmail.com
 
 <!---
